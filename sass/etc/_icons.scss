@@ -1,0 +1,14 @@
+/* Linearicons use the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+
+/*
+the actual css classes
+*/
+
+
+.#{$icon54com-css-prefix}-add-bag:before { content: $icon54com-var-add-bag !important; }
+.#{$icon54com-css-prefix}-add-cart:before { content: $icon54com-var-add-cart !important; }
+.#{$icon54com-css-prefix}-add-chat1:before { content: $icon54com-var-add-chat1 !important; }
+.#{$icon54com-css-prefix}-add-chat2:before { content: $icon54com-var-add-chat2 !important; }
+.#{$icon54com-css-prefix}-add-chat3:before { content: $icon54com-var-add-chat3 !important; }
+.#{$icon54com-css-prefix}-bitcoin-bag:before { content: $icon54com-var-bitcoin-bag !important; }
